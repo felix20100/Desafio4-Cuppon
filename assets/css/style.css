@@ -1,0 +1,57 @@
+body{
+    font-family: 'Roboto';
+}
+
+.navbar{
+    background-color: #28A745;
+}
+
+.collapse{
+    flex-grow: 0!important;
+}
+
+.card{
+    height: 550px;
+}
+
+.card-text{
+    color: #707070;
+
+}
+
+.precio1{
+    height: 19px;
+    color: #707070;
+}
+
+.precio2{
+    height: 24px;
+    font-weight: bold;
+    color: #28A745;
+}
+
+.register{
+    background-color: #28A745;
+    height: 260px;
+}
+
+footer{ text-align: center;
+}
+
+footer img{
+    height: 24px;
+    margin-top: 20px;
+}
+
+footer p{
+    font-family: 'Roboto', Light;
+    color: #707070;
+    font-size: 14pt;
+}
+
+
+
+
+
+
+/*     #28a745      */
